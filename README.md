@@ -1,7 +1,7 @@
 # Channel Master -- Join to Create Bot
-**Note this Discord Bot Repository is the Same as for the Public Bot [Channel Master Bot](https://discord.com/api/oauth2/authorize?client_id=761247967859965982&permissions=8&scope=bot) if u want to support me, then please [invite](https://discord.com/api/oauth2/authorize?client_id=761247967859965982&permissions=8&scope=bot) him!**
+**Note this Discord Bot Repository is the Same as for the Public Bot [Channel Master Bot](https://discord.com/api/oauth2/authorize?client_id=959225476818305096&permissions=8&scope=bot) if u want to support me, then please [invite](https://discord.com/api/oauth2/authorize?client_id=959225476818305096&permissions=8&scope=bot) him!**
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/XQwX4AAT5R)
 
 ## Installation | How to use the Bot
 
@@ -27,18 +27,13 @@
   
 ***
 
-## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/milrato"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+## [Discord Server 😎](https://disboard.org/server/952279318946512926) | [Website](bestprosite.shop)
+<a href="https://disboard.org/server/952279318946512926"><img src="https://discord.com/api/guilds/952279318946512926/widget.png?style=banner4"></a>
 
 ***
 
-## SUPPORT ME AND MILRATO DEVELOPMENT
+## SUPPORT ME 
 
-> You can always Support me by inviting one of my **own Discord Bots**
-
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.dev)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.musicium.dev)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.milrato.dev)
 
 # Credits
 
